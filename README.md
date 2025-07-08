@@ -62,25 +62,11 @@ Welcome to the **Data Structures and Algorithms** repository! This repository co
 
 ---
 
-## 📝 Contribution Guidelines
-
-- Fork the repository and create a new branch for your feature or fix.
-- Add clear comments and explanations to your code.
-- Submit a pull request with a detailed description.
-
----
-
 ## 📚 References
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-
----
-
-## 📧 Contact
-
-For questions or suggestions, please open an issue or contact the repository maintainer.
 
 ---
